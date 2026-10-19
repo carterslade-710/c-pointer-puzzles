@@ -7,3 +7,6 @@ C pointer puzzles and memory layout challenges designed for systems programming 
 
 🚀 How to Validate (After Solving):
 Once you have worked it out on paper, clone the repository and compile your prediction using GCC to see if you were right.
+
+💬 Feedback & Discussions
+Got feedback, found a bug, or want to share your attempt? Head over to the [Discussions](../../discussions) tab to chat!
